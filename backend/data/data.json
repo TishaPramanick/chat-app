@@ -1,0 +1,51 @@
+[
+    {
+        "isGroupChat" : false,
+        "users" : [
+            {
+                "name" : "Tisha Pramanick",
+                "email" : "tisha@gmail.com"
+            },
+            {
+                "name" : "Anjali Patel",
+                "email" : "anjali@gmail.com"
+            }
+        ],
+        "_id" : "1234a456",
+        "chatName" : "Tisha P"
+    },
+    {
+        "isGroupChat" : false,
+        "users" : [
+            {
+                "name" : "Vishnu Shukla",
+                "email" : "@gmvishuail.com"
+            },
+            {
+                "name" : "Devpreet Singh",
+                "email" : "@devuSighn.com"
+            }
+        ],
+        "_id" : "1234b456",
+        "chatName" : "Vishu S"
+    }
+    ,{
+        "isGroupChat" : true,
+        "users" : [
+            {
+                "name" : "Devpreet Singh",
+                "email" : "@devuSighn.com"
+            },
+            {
+                "name" : "Tisha Pramanick",
+                "email" : "tisha@gmail.com"
+            },
+            {
+                "name" : "Tara Sharma",
+                "email" : "tart@gmail.com"
+            }
+        ],
+        "_id" : "1234c456",
+        "chatName" : "Dev Groups"
+    }
+]
